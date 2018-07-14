@@ -1,0 +1,49 @@
+body{
+   font-family: verdana;
+   font-size: 0.8em;
+   margin: 10px;
+}
+
+img{
+   margin-top: 10px;
+}
+
+a{
+   color: blue;
+   text-decoration: underline;
+   font-family: verdana;
+   font-size: 14px;
+}
+
+p{
+   font-family: verdana;
+   font-size: 13px;
+}
+
+li{
+   font-size: 13px;
+}
+footer{
+   margin-top: 40px;
+}
+
+}
+#menu-principal{
+   padding: 10px 0;
+}
+#nombreempresa
+{
+   display: inline;
+}
+#recetas{
+   background-color: aliceblue;
+   text-align: center;
+   padding: 10px;
+}
+
+.especialidad{
+   background-color: yellow;
+}
+.cheff{
+   background-color: yellow;
+}
